@@ -4,23 +4,27 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Orthodoxe Christelijke Gemeente</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto:wght@400&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: 'Georgia', serif;
+            font-family: 'Roboto', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f0f0f0;
+            background: linear-gradient(to bottom, #f8e1d4, #ffcc80);
             color: #333;
+            transition: background 0.5s;
         }
         header {
-            background: #800000; /* Donkerrood */
-            color: #FFD700; /* Donkergeel */
+            background: linear-gradient(to right, #800000, #d19a00);
+            color: #fff;
             padding: 20px;
             text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
         }
         h1 {
             margin: 0;
             font-size: 2.5em;
+            font-family: 'Playfair Display', serif;
         }
         nav {
             margin: 20px 0;
@@ -30,6 +34,10 @@
             text-decoration: none;
             margin: 0 15px;
             font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #ffcc00;
         }
         .content {
             padding: 20px;
@@ -41,16 +49,21 @@
             background: white;
             padding: 20px;
             border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            transition: transform 0.3s;
+        }
+        .section:hover {
+            transform: scale(1.02);
         }
         footer {
             text-align: center;
-            padding: 10px;
+            padding: 20px;
             background: #800000;
             color: #FFD700;
             position: relative;
             bottom: 0;
             width: 100%;
+            box-shadow: 0 -2px 10px rgba(0, 0, 0, 0.3);
         }
         .download-btn {
             display: inline-block;
@@ -60,12 +73,20 @@
             text-decoration: none;
             border-radius: 5px;
             margin-top: 10px;
+            transition: background 0.3s;
+        }
+        .download-btn:hover {
+            background: #ffcc00;
         }
         .blog-link {
             display: block;
             margin: 10px 0;
             color: #800000;
             text-decoration: underline;
+            transition: color 0.3s;
+        }
+        .blog-link:hover {
+            color: #d19a00;
         }
     </style>
 </head>
