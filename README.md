@@ -43,17 +43,19 @@
             padding: 20px;
             max-width: 800px;
             margin: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
         }
         .section {
-            margin-bottom: 40px;
             background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             transition: transform 0.3s;
         }
         .section:hover {
-            transform: scale(1.02);
+            transform: translateY(-5px);
         }
         footer {
             text-align: center;
@@ -97,7 +99,6 @@
     <nav>
         <a href="#home">Home</a>
         <a href="#about">Over Ons</a>
-        <a href="#blogs">Blogs</a>
         <a href="#contact">Contact</a>
     </nav>
 </header>
@@ -108,17 +109,17 @@
         <p>Welkom bij onze orthodoxe christelijke gemeenschap. Wij zijn een plek van gebed, gemeenschap en leren. Neem de tijd om onze site te verkennen.</p>
     </div>
 
-    <div class="section" id="about">
-        <h2>Over Ons</h2>
-        <p>Wij zijn een warme en gastvrije gemeenschap die zich richt op het dienen van God en elkaar. Ons doel is om de boodschap van Christus te verspreiden en een plek van hoop en liefde te bieden.</p>
-    </div>
-
     <div class="section" id="blogs">
         <h2>Blogs</h2>
         <p>Lees onze laatste artikelen en blogs:</p>
         <a href="#blog1" class="blog-link">Blog 1: De kracht van gebed</a>
         <a href="#blog2" class="blog-link">Blog 2: Onze tradities en feesten</a>
         <a href="#blog3" class="blog-link">Blog 3: De betekenis van de liturgie</a>
+    </div>
+
+    <div class="section" id="about">
+        <h2>Over Ons</h2>
+        <p>Wij zijn een warme en gastvrije gemeenschap die zich richt op het dienen van God en elkaar. Ons doel is om de boodschap van Christus te verspreiden en een plek van hoop en liefde te bieden.</p>
     </div>
 
     <div class="section" id="contact">
