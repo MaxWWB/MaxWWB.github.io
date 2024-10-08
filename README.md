@@ -13,9 +13,9 @@
         <li><a href="https://pastebin.com/xTBmDt2g">Bouw je eigen AI-Detector (Moeilijk)</a></li>
     </ul>
     
-    <h2>Schrijfhulpmiddelen</h2>
+    <h2>Beste AI-Modules</h2>
     <ul>
-        <li><a href="https://www.grammarly.com/">Grammarly</a></li>
+        <li><a href="https://deepai.org/chat">DeepAI - Beste AI-Module</a></li>
     </ul>
 </body>
 </html>
