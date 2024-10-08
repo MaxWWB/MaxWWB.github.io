@@ -18,7 +18,7 @@
         <li><a href="https://www.zerogpt.com/chat">ZeroGPT - Ondetecteerbaar + Sterkste AI-Module</a></li>
         <li><a href="https://deepai.org/chat">DeepAI - Sterk AI-Module</a></li>
         <li><a href="https://chatgpt.com/">ChatGPT - 4o-Module</a></li>
-        <ul>
+        </ul>
         
          <h2>Maak AI-Videos</h2>
          <ul>
