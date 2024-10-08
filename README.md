@@ -5,7 +5,7 @@
     <title>Mijn Links</title>
 </head>
 <body>
-    <h1>Mijn Links</h1>
+    <h1>AI-Hulpmiddelen</h1>
     
     <h2>AI-Detectie Tools</h2>
     <ul>
