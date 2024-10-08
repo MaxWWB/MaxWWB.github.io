@@ -15,12 +15,17 @@
     
     <h2>Beste AI-Modules</h2>
     <ul>
-        <li><a href="https://www.zerogpt.com/chat">ZeroGPT - Ondetecteerbaar + Sterkste AI-Module</a></li>
+        <li><a href="https://www.zerogpt.com/chat">ZeroGPT - Ondetecteerbaar + Humanizer + Sterkste AI-Module</a></li>
         <li><a href="https://deepai.org/chat">DeepAI - Sterk AI-Module</a></li>
         <li><a href="https://chatgpt.com/">ChatGPT - 4o-Module</a></li>
         </ul>
         
          <h2>Maak AI-Videos</h2>
+         <ul>
+         <li><a href="https://pixverse.ai/">Krachtig AI-Video Creatie Module</a></li>
+    <ul>
+    
+    <h2>Maak AI-Videos</h2>
          <ul>
          <li><a href="https://pixverse.ai/">Krachtig AI-Video Creatie Module</a></li>
     <ul>
