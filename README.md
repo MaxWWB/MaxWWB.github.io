@@ -9,7 +9,7 @@
     <h1>Mijn Links</h1>
     <ul>
         <li><a href="https://www.zerogpt.com/">Beste AI-Detector Ooit</a></li>
-        <li><a href="https://file.io/WGIpUnS1NMux">Bouw je eigen AI-Detector (Moeilijk)</a></li>
+        <li><a href="https://pastebin.com/xTBmDt2g">Bouw je eigen AI-Detector (Moeilijk)</a></li>
         <li><a href="https://voorbeeld3.com">Link 3</a></li>
     </ul>
 </body>
