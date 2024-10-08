@@ -16,7 +16,7 @@
     <h2>Beste AI-Modules</h2>
     <ul>
         <li><a href="https://deepai.org/chat">DeepAI - Beste AI-Module</a></li>
-        <li><a href="https://deepai.org/chat">DeepAI - Beste AI-Module</a></li>
+        <li><a href="https://chatgpt.com/">ChatGPT 4O-Module</a></li>
     </ul>
 </body>
 </html>
