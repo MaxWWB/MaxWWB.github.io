@@ -9,7 +9,7 @@
     
     <h2>AI-Detectie Tools</h2>
     <ul>
-        <li><a href="https://www.zerogpt.com/">Beste AI-Detector Ooit</a></li>
+        <li><a href="https://www.zerogpt.com/">Sterkste AI-Detector</a></li>
         <li><a href="https://pastebin.com/xTBmDt2g">Bouw je eigen AI-Detector (Moeilijk)</a></li>
     </ul>
     
